@@ -6,6 +6,6 @@ public class Config {
 	public static final String TOKEN = "lishiwei";
 	
 	/** 图灵机器人的APPKEY，可在图灵官方申请*/
-	public static final String APIKEY = "https://github.com/vividl/Swordfish.git"; 
+	public static final String APIKEY = "3e99d8f822d143cb8dc3ab763553c029"; 
 	
 }
