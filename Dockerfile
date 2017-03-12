@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:12.04
 # 签名
 MAINTAINER ruok "18141920925@163.com"
 
