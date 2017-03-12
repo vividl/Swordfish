@@ -3,7 +3,7 @@ FROM ubuntu
 MAINTAINER ruok "18141920925@163.com"
 
 # 安装JDK与nginx
-RUN apt-get update
+RUN apt-get -y update
 RUN apt-get install openjdk-7-jre -y
 RUN apt-get install openjdk-7-jdk -y
 RUN apt-get install nginx -y
